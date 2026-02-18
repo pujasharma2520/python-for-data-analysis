@@ -65,6 +65,24 @@ Performed end-to-end data analysis:
 
 ---
 
+## 📌 Dataset Used
+
+The primary dataset used for analysis in this repository:
+
+**Data Jobs Dataset**  
+Source: https://huggingface.co/datasets/lukebarousse/data_jobs  
+
+This dataset includes job postings related to data roles and contains information such as:
+- Job titles
+- Salary information
+- Location
+- Required skills
+- Company information
+
+It was used to perform real-world Exploratory Data Analysis (EDA), salary analysis, skill demand analysis, and data cleaning tasks.
+
+---
+
 ## 🛠 Tools & Technologies Used
 
 - Python
