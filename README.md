@@ -105,6 +105,52 @@ It was used to perform real-world Exploratory Data Analysis (EDA), salary analys
 
 ---
 
+## 📈 Sample Visualizations
+
+Below are some visualizations created during the Exploratory Data Analysis of the Data Jobs dataset.
+
+### 1️⃣ Monthly Job Demand in USA
+
+<p align="center">
+  <img src="charts/Monthly Job Demand in USA.png" alt="Monthly Job Demand in USA" width="1000"/>
+</p>
+
+---
+
+### 2️⃣ Salary Distribution of different jobs in US
+
+<p align="center">
+  <img src="charts/Salary Distribution of different jobs in US.png" alt="Salary Distribution of different jobs in US" width="1000"/>
+</p>
+
+---
+
+### 3️⃣ Top 10 most demanded and paid skills for Data Analyst in USA
+
+<p align="center">
+  <img src="charts/Top 10 most demanded and paid skills for Data Analyst in USA.png" alt="Top 10 most demanded and paid skills for Data Analyst in USA" width="1000"/>
+</p>
+
+---
+
+### 4️⃣ Top 5 Trending skills for Data Analyst Over Time
+
+<p align="center">
+  <img src="charts/Top 5 Trending skills for Data Analyst Over Time.png" alt="Top 5 Trending skills for Data Analyst Over Time" width="1000"/>
+</p>
+
+---
+
+### 5️⃣ Distribution of Average Yearly Sales for Data Analysts in US
+
+<p align="center">
+  <img src="charts/distribution of Average Yearly Sales for Data Analysts in US.png" alt="Distribution of Average Yearly Sales for Data Analysts in US" width="1000"/>
+</p>
+
+---
+
+
+
 ## 🚀 Career Objective
 
 I am currently transitioning into a **Junior Data Analyst role** with strong hands-on skills in:
