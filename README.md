@@ -161,21 +161,6 @@ Below are some visualizations created during the Exploratory Data Analysis of th
 
 ---
 
-
-
-## 🚀 Career Objective
-
-I am currently transitioning into a **Junior Data Analyst role** with strong hands-on skills in:
-
-- SQL
-- Excel
-- Python (Pandas & Visualization)
-- Data Cleaning & Reporting
-
-This repository reflects my practical preparation for entry-level Data Analyst positions.
-
----
-
 ## 📬 Connect With Me
 
 If you would like to discuss data projects or opportunities, feel free to connect.
