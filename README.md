@@ -7,63 +7,75 @@ The focus of this repository is practical implementation for a **Data Analyst ro
 
 ---
 
-## 📌 Course Coverage
+# 🧠 Technical Skills Implemented
 
-### 1️⃣ Python Fundamentals
-- Variables & Data Types
-- Arithmetic & Logical Operators
-- Conditional Statements (if / elif / else)
-- Loops (for, while)
-- Functions
-- Basic Exception Handling
-- Jupyter Notebook workflow
-
----
-
-### 2️⃣ NumPy – Numerical Computing
-- Creating NumPy arrays
-- Indexing & slicing
-- Array operations (mean, sum, aggregation)
-- Working with CSV data
-- Understanding how Pandas uses NumPy internally
+## 1️⃣ Python Fundamentals
+- Variables & Data Types  
+- Arithmetic & Logical Operators  
+- Conditional Statements (if / elif / else)  
+- Loops (for, while)  
+- Functions  
+- Basic Exception Handling  
+- Jupyter Notebook workflow  
 
 ---
 
-### 3️⃣ Pandas – Core Data Analysis (Main Focus)
-- Reading CSV & Excel files
-- DataFrame operations
-- Filtering & Sorting
-- GroupBy & Aggregation
-- Merge & Join operations
-- Handling Missing Values
-- Data Cleaning & Transformation
-
-This section represents the core skills required for a Junior Data Analyst role.
+## 2️⃣ NumPy – Numerical Computing
+- Creating NumPy arrays  
+- Indexing & slicing  
+- Array aggregations (mean, sum, etc.)  
+- Understanding how Pandas leverages NumPy internally  
 
 ---
 
-### 4️⃣ Data Visualization
-- Line Charts
-- Bar Charts
-- Histograms
-- Count Plots
-- Heatmaps
-- Basic chart customization (labels, titles, formatting)
+## 3️⃣ Pandas – Core Data Analysis (Primary Focus)
 
-Focus: Clear and business-friendly visualizations.
+- Reading CSV & Excel files  
+- DataFrame operations  
+- Filtering & Sorting  
+- `groupby()` for segmentation analysis  
+- `pivot_table()` for multi-dimensional summaries  
+- Merge & Join operations  
+- Handling Missing Values  
+- Data Cleaning & Transformation  
+- Using `explode()` to normalize multi-skill columns  
+
+This section represents the core technical skills required for a Junior Data Analyst position.
+
+---
+
+## 4️⃣ Data Visualization
+
+Visualizations were built using **Matplotlib** and **Seaborn** with focus on clarity and business readability.
+
+Charts created include:
+
+- Line Charts  
+- Bar Charts  
+- Histograms  
+- Count Plots  
+- Heatmaps  
+- Trend Visualizations  
+
+Emphasis: Clear, insight-driven visual storytelling.
 
 ---
 
-## 📊 Course Project – Exploratory Data Analysis (EDA)
+# 📊 Exploratory Data Analysis (EDA) Project
 
-Performed end-to-end data analysis:
-- Data loading
-- Cleaning & preprocessing
-- Exploratory analysis
-- Data visualization
-- Extracting meaningful business insights
+Performed end-to-end data analysis including:
+
+- Data loading & inspection  
+- Data cleaning & preprocessing  
+- Salary analysis by job role & experience  
+- Skill demand frequency analysis  
+- Job distribution by location  
+- Remote vs On-site job comparison  
+- Trend analysis over time  
+- Data visualization & insight extraction  
 
 ---
+
 
 ## 📌 Dataset Used
 
